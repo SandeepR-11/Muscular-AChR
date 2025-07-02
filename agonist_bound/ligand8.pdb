@@ -1,0 +1,156 @@
+MODEL        7
+USER    Run = 7
+USER    Cluster Rank = 1
+USER    Number of conformations in this cluster = 3
+USER  
+USER    RMSD from reference structure       = 244.816 A
+USER  
+USER    Estimated Free Energy of Binding    =   -4.64 kcal/mol  [=(1)+(2)+(3)-(4)]
+USER    Estimated Inhibition Constant, Ki   =  398.12 uM (micromolar)  [Temperature = 298.15 K]
+USER    
+USER    (1) Final Intermolecular Energy     =   -5.83 kcal/mol
+USER        vdW + Hbond + desolv Energy     =   -3.78 kcal/mol
+USER        Electrostatic Energy            =   -2.05 kcal/mol
+USER    (2) Final Total Internal Energy     =   -0.10 kcal/mol
+USER    (3) Torsional Free Energy           =   +1.19 kcal/mol
+USER    (4) Unbound System's Energy  [=(2)] =   -0.10 kcal/mol
+USER    
+USER    
+USER  
+USER    DPF = results/ligand8.dpf
+USER    NEWDPF move	ligand8.pdbqt
+USER    NEWDPF about	3.830000 0.329000 2.023000
+USER    NEWDPF tran0	123.777422 157.447670 144.911536
+USER    NEWDPF axisangle0	-0.297544 -0.010355 -0.954652 -154.398587
+USER    NEWDPF quaternion0	-0.290149 -0.010097 -0.930926 -0.221561
+USER    NEWDPF dihe0	-153.52 -168.46 -180.00 160.65 
+USER  
+USER                              x       y       z    vdW   Elec        q     RMS 
+ATOM      1  N   UNL     1     125.365 159.004 141.180 -0.21 -0.50    +0.243    244.816
+ATOM      2  C   UNL     1     125.339 157.569 141.687 -0.35 -0.32    +0.129    244.816
+ATOM      3  C   UNL     1     126.020 156.670 140.677 -0.41 -0.14    +0.060    244.816
+ATOM      4  C   UNL     1     124.103 159.724 141.629 -0.39 -0.26    +0.129    244.816
+ATOM      5  C   UNL     1     124.479 161.057 142.239 -0.55 -0.10    +0.060    244.816
+ATOM      6  C   UNL     1     125.434 159.003 139.660 -0.39 -0.25    +0.129    244.816
+ATOM      7  C   UNL     1     124.222 159.720 139.106 -0.53 -0.11    +0.060    244.816
+ATOM      8  C   UNL     1     126.585 159.719 141.742 -0.41 -0.24    +0.129    244.816
+ATOM      9  C   UNL     1     127.088 158.966 142.955 -0.52 -0.13    +0.060    244.816
+TER
+ENDMDL
+MODEL        6
+USER    Run = 6
+USER    Cluster Rank = 2
+USER    Number of conformations in this cluster = 2
+USER  
+USER    RMSD from reference structure       = 244.491 A
+USER  
+USER    Estimated Free Energy of Binding    =   -4.41 kcal/mol  [=(1)+(2)+(3)-(4)]
+USER    Estimated Inhibition Constant, Ki   =  587.36 uM (micromolar)  [Temperature = 298.15 K]
+USER    
+USER    (1) Final Intermolecular Energy     =   -5.60 kcal/mol
+USER        vdW + Hbond + desolv Energy     =   -3.41 kcal/mol
+USER        Electrostatic Energy            =   -2.19 kcal/mol
+USER    (2) Final Total Internal Energy     =   -0.13 kcal/mol
+USER    (3) Torsional Free Energy           =   +1.19 kcal/mol
+USER    (4) Unbound System's Energy  [=(2)] =   -0.13 kcal/mol
+USER    
+USER    
+USER  
+USER    DPF = results/ligand8.dpf
+USER    NEWDPF move	ligand8.pdbqt
+USER    NEWDPF about	3.830000 0.329000 2.023000
+USER    NEWDPF tran0	127.431954 157.650751 135.984194
+USER    NEWDPF axisangle0	0.820895 0.306790 -0.481676 -161.923971
+USER    NEWDPF quaternion0	0.810703 0.302981 -0.475695 -0.157090
+USER    NEWDPF dihe0	-159.31 57.20 -146.33 -96.50 
+USER  
+USER                              x       y       z    vdW   Elec        q     RMS 
+ATOM      1  N   UNL     1     127.195 157.692 140.321 -0.21 -0.52    +0.243    244.491
+ATOM      2  C   UNL     1     128.169 156.945 139.421 -0.36 -0.28    +0.129    244.491
+ATOM      3  C   UNL     1     129.191 156.230 140.277 -0.38 -0.14    +0.060    244.491
+ATOM      4  C   UNL     1     126.861 159.040 139.699 -0.42 -0.24    +0.129    244.491
+ATOM      5  C   UNL     1     127.662 159.215 138.427 -0.48 -0.11    +0.060    244.491
+ATOM      6  C   UNL     1     127.831 157.908 141.687 -0.28 -0.32    +0.129    244.491
+ATOM      7  C   UNL     1     127.222 159.133 142.333 -0.51 -0.13    +0.060    244.491
+ATOM      8  C   UNL     1     125.920 156.876 140.479 -0.34 -0.30    +0.129    244.491
+ATOM      9  C   UNL     1     126.119 155.847 141.570 -0.43 -0.15    +0.060    244.491
+TER
+ENDMDL
+MODEL        8
+USER    Run = 8
+USER    Cluster Rank = 3
+USER    Number of conformations in this cluster = 3
+USER  
+USER    RMSD from reference structure       = 247.650 A
+USER  
+USER    Estimated Free Energy of Binding    =   -4.39 kcal/mol  [=(1)+(2)+(3)-(4)]
+USER    Estimated Inhibition Constant, Ki   =  601.31 uM (micromolar)  [Temperature = 298.15 K]
+USER    
+USER    (1) Final Intermolecular Energy     =   -5.59 kcal/mol
+USER        vdW + Hbond + desolv Energy     =   -3.44 kcal/mol
+USER        Electrostatic Energy            =   -2.15 kcal/mol
+USER    (2) Final Total Internal Energy     =   -0.10 kcal/mol
+USER    (3) Torsional Free Energy           =   +1.19 kcal/mol
+USER    (4) Unbound System's Energy  [=(2)] =   -0.10 kcal/mol
+USER    
+USER    
+USER  
+USER    DPF = results/ligand8.dpf
+USER    NEWDPF move	ligand8.pdbqt
+USER    NEWDPF about	3.830000 0.329000 2.023000
+USER    NEWDPF tran0	157.407013 150.628701 124.444034
+USER    NEWDPF axisangle0	0.918493 -0.006186 -0.395390 122.302981
+USER    NEWDPF quaternion0	0.804506 -0.005419 -0.346321 0.482495
+USER    NEWDPF dihe0	166.58 39.51 -57.43 69.14 
+USER  
+USER                              x       y       z    vdW   Elec        q     RMS 
+ATOM      1  N   UNL     1     155.725 147.980 127.448 -0.21 -0.52    +0.243    247.650
+ATOM      2  C   UNL     1     155.865 147.763 125.948 -0.42 -0.26    +0.129    247.650
+ATOM      3  C   UNL     1     156.230 146.319 125.684 -0.51 -0.14    +0.060    247.650
+ATOM      4  C   UNL     1     156.922 148.768 127.960 -0.33 -0.27    +0.129    247.650
+ATOM      5  C   UNL     1     158.062 148.643 126.972 -0.46 -0.10    +0.060    247.650
+ATOM      6  C   UNL     1     155.668 146.632 128.152 -0.27 -0.34    +0.129    247.650
+ATOM      7  C   UNL     1     154.332 146.489 128.847 -0.39 -0.15    +0.060    247.650
+ATOM      8  C   UNL     1     154.447 148.756 127.733 -0.36 -0.26    +0.129    247.650
+ATOM      9  C   UNL     1     154.805 150.143 128.221 -0.49 -0.11    +0.060    247.650
+TER
+ENDMDL
+MODEL        3
+USER    Run = 3
+USER    Cluster Rank = 4
+USER    Number of conformations in this cluster = 2
+USER  
+USER    RMSD from reference structure       = 247.418 A
+USER  
+USER    Estimated Free Energy of Binding    =   -4.35 kcal/mol  [=(1)+(2)+(3)-(4)]
+USER    Estimated Inhibition Constant, Ki   =  650.93 uM (micromolar)  [Temperature = 298.15 K]
+USER    
+USER    (1) Final Intermolecular Energy     =   -5.54 kcal/mol
+USER        vdW + Hbond + desolv Energy     =   -4.89 kcal/mol
+USER        Electrostatic Energy            =   -0.65 kcal/mol
+USER    (2) Final Total Internal Energy     =   -0.13 kcal/mol
+USER    (3) Torsional Free Energy           =   +1.19 kcal/mol
+USER    (4) Unbound System's Energy  [=(2)] =   -0.13 kcal/mol
+USER    
+USER    
+USER  
+USER    DPF = results/ligand8.dpf
+USER    NEWDPF move	ligand8.pdbqt
+USER    NEWDPF about	3.830000 0.329000 2.023000
+USER    NEWDPF tran0	130.520182 142.697431 158.361712
+USER    NEWDPF axisangle0	0.211536 0.950938 0.225766 131.268955
+USER    NEWDPF quaternion0	0.192695 0.866240 0.205657 0.412556
+USER    NEWDPF dihe0	177.66 51.98 177.59 -51.10 
+USER  
+USER                              x       y       z    vdW   Elec        q     RMS 
+ATOM      1  N   UNL     1     133.882 140.750 156.419 -0.34 -0.16    +0.243    247.418
+ATOM      2  C   UNL     1     133.861 142.027 157.246 -0.55 -0.08    +0.129    247.418
+ATOM      3  C   UNL     1     135.217 142.230 157.886 -0.68 -0.04    +0.060    247.418
+ATOM      4  C   UNL     1     132.875 139.761 156.987 -0.51 -0.08    +0.129    247.418
+ATOM      5  C   UNL     1     132.333 140.296 158.295 -0.53 -0.04    +0.060    247.418
+ATOM      6  C   UNL     1     135.274 140.138 156.466 -0.53 -0.09    +0.129    247.418
+ATOM      7  C   UNL     1     135.198 138.774 157.117 -0.57 -0.04    +0.060    247.418
+ATOM      8  C   UNL     1     133.518 141.073 154.977 -0.57 -0.09    +0.129    247.418
+ATOM      9  C   UNL     1     134.562 140.481 154.055 -0.60 -0.04    +0.060    247.418
+TER
+ENDMDL
